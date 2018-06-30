@@ -3,8 +3,7 @@
 A layout derived from ViewGroup, not any other indirect container, such as FrameLayout, SlidingPaneLayout or DrawerLayout.
 
 <div align="center">
-    <img src="https://github.com/ApksHolder/SlidingDrawerLayout/blob/master/preview0.gif" width="300" hspace="0">
-    <img src="https://github.com/ApksHolder/SlidingDrawerLayout/blob/master/preview1.gif" width="300" hspace="5">
+    <img src="https://github.com/ApksHolder/SlidingDrawerLayout/blob/master/SlidingDrawerLayout.gif" width="300">
 </div>
 
 
